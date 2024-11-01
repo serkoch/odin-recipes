@@ -1,0 +1,24 @@
+* {
+    font-family: Tahoma, Verdana, sans-serif;
+    line-height: 1.5;
+    background-color: #111827;
+    color: #d1d5db;
+}
+
+h1,
+h2 {
+    color: #e5e7eb;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a {
+    color: #93c5fd;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+a {
+    text-decoration: none;
+    font-style: italic;
+}
